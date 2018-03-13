@@ -1,6 +1,6 @@
 README
 ===========================
-node-demo
+node-server
 
 ****
 ###　Author:Alex Dong
@@ -18,19 +18,19 @@ node-demo
 >  传送门2：[angulat4后台管理系统](https://github.com/Alex-0407/ng4-grace)
 
 
-
 ===========================
 
 ### Installation & Development
 
-1. clone this repo: `git clone https://github.com/Alex-0407/node-express-start.git` or download
-2. `cd node-express-start`
-3. run `node express_demo4.js` from a terminal
-4. open `http://localhost:8081/upload.html` in the browser
+1. clone this repo: `git clone https://github.com/Alex-0407/node-server.git` or download
+2. `cd node-server`
+3. run `npm i` from a terminal
+4. run `npm start` from a terminal
+5. open `http://localhost:8080/index.html` in the browser
 
 
 ### 项目地址：
-https://github.com/Alex-0407/node-express-start
+https://github.com/Alex-0407/node-server
 
 #### Node.js 学习资源
 
@@ -107,4 +107,4 @@ ionic入门视频 回复“ionic提取码”领取 提取码
 
 * 今日头条号二维码，扫一扫即可关注
 
-<img src="https://github.com/Alex-0407/node-demo/blob/master/toutiao.jpg" width="320px" style="display:inline;">
+<img src="https://github.com/alex-0407/node-server/blob/master/images/toutiao.jpg" width="320px" style="display:inline;">
